@@ -1,0 +1,56 @@
+[33mcommit c7d3d73a3878a17be90b17dcb880e7e07fdae5c0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3da28d3 ec074d7
+Author: Zooboomafou <159351014+Zooboomafou@users.noreply.github.com>
+Date:   Sat Dec 28 19:23:43 2024 -0500
+
+    Merge pull request #2 from Zooboomafou/quickthing
+    
+    Quickthing
+
+[33mcommit ec074d70726541dc42e3ffdb52c38ed8934b4ddb[m[33m ([m[1;31morigin/quickthing[m[33m)[m
+Merge: 6208acf 3da28d3
+Author: Ryan <user1@Ryan>
+Date:   Sat Dec 28 19:17:23 2024 -0500
+
+    oke
+
+[33mcommit 6208acfc30f6be73bafc794811ab03fbdd9bdf8a[m
+Author: Ryan <user1@Ryan>
+Date:   Sat Dec 28 19:12:27 2024 -0500
+
+    merge conflict attempt
+
+[33mcommit 3da28d3f1ec9ac3283a1320ffae9b98490f793eb[m
+Author: Ryan <user1@Ryan>
+Date:   Sat Dec 28 19:11:48 2024 -0500
+
+    main merge conflict attempt
+
+[33mcommit cb17509967c5c5a9fbb7179f710ebf4aa17da44a[m
+Merge: 7a31f1f b10f00b
+Author: Zooboomafou <159351014+Zooboomafou@users.noreply.github.com>
+Date:   Sat Dec 28 11:53:27 2024 -0500
+
+    Merge pull request #1 from Zooboomafou/test1
+    
+    updated README
+
+[33mcommit b10f00bd7897f58375fe601b92f60aef8531c9f8[m[33m ([m[1;31morigin/test1[m[33m)[m
+Author: Ryan <user1@Ryan>
+Date:   Sat Dec 28 11:45:09 2024 -0500
+
+    updated README
+
+[33mcommit 7a31f1f41d2979e4e516bc1c8aacf7a72d14fe94[m
+Author: Ryan <user1@Ryan>
+Date:   Sat Dec 28 08:26:36 2024 -0500
+
+    first commit!
+    
+    trying out git!
+
+[33mcommit 8edbe3b1e3c144d9eabdee3412f4f4f839a1ef55[m
+Author: Zooboomafou <159351014+Zooboomafou@users.noreply.github.com>
+Date:   Sat Dec 28 08:20:12 2024 -0500
+
+    Initial commit
